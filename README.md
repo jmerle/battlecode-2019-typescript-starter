@@ -10,7 +10,7 @@ A starter project to use TypeScript in Battlecode 2019.
 4. Add `// tslint:disable variable-name member-access` to the top of `src/battlecode.d.ts`.
 5. Run `yarn` to install the dependencies, or `npm install` when using npm.
 
-## Using with npm
+## NPM
 
 Although this starter project uses [Yarn](https://yarnpkg.com/en/) by default, you can also use npm. Just make sure to remove the `yarn.lock` file and remove the `package-lock.json` entry from the `.gitignore` file to make sure you commit the lockfile.
 
