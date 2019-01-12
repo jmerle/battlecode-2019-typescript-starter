@@ -7,7 +7,8 @@ A starter project to use TypeScript in Battlecode 2019.
 1. Clone or download this repository.
 2. `cd` into the directory.
 3. Copy the `battlecode.d.ts` file from the [latest release of jmerle/battlecode-2019-types](https://github.com/jmerle/battlecode-2019-types/releases) to `src/battlecode.d.ts`.
-4. Run `yarn` to install the dependencies, or `npm install` when using npm.
+4. Add `// tslint:disable variable-name member-access` to the top of `src/battlecode.d.ts`.
+5. Run `yarn` to install the dependencies, or `npm install` when using npm.
 
 ## Using with npm
 
